@@ -1,7 +1,6 @@
-kitchen
-hall
-bedroom
-balcony
+furniture
+kitchen furniture
+kitchen island
+refrigerator
 table
-bag
 drawer
