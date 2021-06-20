@@ -4,3 +4,4 @@ bedroom
 balcony
 table
 bag
+drawer
