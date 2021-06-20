@@ -1,0 +1,5 @@
+kitchen
+hall
+bedroom
+balcony
+привет
