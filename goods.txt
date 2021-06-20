@@ -2,4 +2,5 @@ kitchen
 hall
 bedroom
 balcony
-привет
+table
+bag
