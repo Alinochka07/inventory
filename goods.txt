@@ -4,3 +4,4 @@ kitchen island
 refrigerator
 table
 drawer
+table
